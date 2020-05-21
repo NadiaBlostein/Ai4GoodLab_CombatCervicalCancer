@@ -5,21 +5,21 @@ Heritability is defined is as the proportion of variance of a quantitative pheno
 
 # DATA
 
-	→ Vertex-wise heritability estimates of subcortical structures from my previous project (used the Human Connectome Project T1w structural MRIs)*
-	→ Primate brain templates and subcortical labels
+	► Vertex-wise heritability estimates of subcortical structures from my previous project (used the Human Connectome Project T1w structural MRIs)✺
+	► Primate brain templates and subcortical labels
 
 # TOOLS
 
-	→ Advanced Normalization Tools (ANTS) to register brains to each other *using subcortical labels as brain masks)
-	→ Spatial permutation test (Alexander-Bloch et al. 2018)
+	► Advanced Normalization Tools (ANTS) to register brains to each other *using subcortical labels as brain masks)
+	► Spatial permutation test (Alexander-Bloch et al. 2018)
 
 # DELIVERABLES
 
-	→ brain map of vertex-wise evolutionary expansion across the six subcortical structures under study
-	→ examination of the relationship between this brain map and vertex-wise heritability measures
+	► brain map of vertex-wise evolutionary expansion across the six subcortical structures under study
+	► examination of the relationship between this brain map and vertex-wise heritability measures
 
  
-* The Heritability of Subcortical Structures Using a Twin and Non-Twin Sibling Design:
+✺ The Heritability of Subcortical Structures Using a Twin and Non-Twin Sibling Design:
 Nadia Blostein1,7, Sejal Patel1,4,5, Raihaan Patel1,2, Stephanie Tullo1,3, Eric Plitman1,6, Saashi Bedford1, Gabriel A. Devenyi1,6, M. Mallar Chakravarty1,2,6
  
 1Cerebral Imaging Centre, Douglas Mental Health University Institute, Verdun, Canada
