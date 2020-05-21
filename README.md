@@ -1,1 +1,0 @@
-# blostein_evolution_heritability
