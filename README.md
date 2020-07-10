@@ -1,5 +1,3 @@
-# IN SEARCH OF
-
 # BACKGROUND
 
 # DATA
