@@ -24,6 +24,10 @@ Our cervix position classifier was trained on another Kaggle dataset: https://ww
 
 *Output.* For each input image, the model outputs one out of three labels, each belonging to a specific cervix position type. 
 
+*Image segmentation.*
+
+As a preprocessing step, constrast split segmentation mask was used to binarize intensities to distinguish between dark and light components of the image. Thus, we were able to highlight the cervix position in the image. 
+
 # Future Works.
 
 To improve our cervical cancer risk prediction score, we would like to:\
