@@ -26,14 +26,12 @@ Our cervix position classifier was trained on another Kaggle dataset: https://ww
 
 # Future Works.
 
-To improve our cervical cancer risk prediction score, we would like to:
-
-  (a) add features to the dataset, such as socioeconomic status and education;
-  
+To improve our cervical cancer risk prediction score, we would like to:\
+  (a) add features to the dataset, such as socioeconomic status and education;\
   (b) tackle the problem of data accessibility by consensually collecting and anonymizing the data of our app users and directly feeding it into the model.
   
-To improve our cervix position classifier, we would like to:
-  (a) apply AWS Hyperparameter Optimization (HPO) to our model;/
+To improve our cervix position classifier, we would like to:\
+  (a) apply AWS Hyperparameter Optimization (HPO) to our model;\
   (b) incorporate image segmentation into our image preprocessing pipeline;\
-  (c) train our model on the additional data that was available on Kaggle;
+  (c) train our model on the additional data that was available on Kaggle;\
   (d) manually double-check our ground-truth cervix labels with an expert.
