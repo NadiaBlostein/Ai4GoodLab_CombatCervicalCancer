@@ -10,6 +10,8 @@ We built a cervical cancer risk prediction score based off of data collected fro
 
 *Input.* The features that we input into our model were each subject’s past contraceptive, sexual and STD medical history.
 
+
+
 *Model.* After testing several classifiers, we found that a linear support vector classifier performed the best with an accuracy of 66%. To compensate for the uneven class distribution, we bootstrapped the training data and examined the model’s balanced accuracy on the test set.
 
 *Output.* The model outputs an integer value between 0 (meaning no risk) and 4 (meaning high risk) as a subject’s cervical cancer risk prediction score.
