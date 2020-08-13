@@ -24,7 +24,7 @@ Our cervix position classifier was trained on another Kaggle dataset: https://ww
 
 *Output.* For each input image, the model outputs one out of three labels, each belonging to a specific cervix position type (see *cervix_position_classifier_CNN.ipynb*). 
 
-*Image segmentation.* As a prospective preprocessing step, we segmented the cervix in several test images. A constrast split segmentation mask was used to binarize intensities in order to distinguish between dark and light components of the image. In the future, we aim to incorporate this segmentation algorithm into our preprocessing pipeline (see *imageSegmentation-checkpoint* for the segmentation of code and *scitkit_image_exploration.ipynb* for our exploration of the .jpg data).
+*Image segmentation.* As a prospective preprocessing step, we segmented the cervix in several test images. A constrast split segmentation mask was used to binarize intensities in order to distinguish between dark and light components of the image. In the future, we aim to incorporate this segmentation algorithm into our preprocessing pipeline (see *imageSegmentation-checkpoint* for the segmentation code and *scitkit_image_exploration.ipynb* for our exploration of the .jpg data).
 
 # Future Works.
 
