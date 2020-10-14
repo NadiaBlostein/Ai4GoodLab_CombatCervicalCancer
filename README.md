@@ -36,4 +36,4 @@ To improve our cervix position classifier, we would like to:\
   (a) apply AWS Hyperparameter Optimization (HPO) to our model;\
   (b) incorporate image segmentation into our image preprocessing pipeline;\
   (c) train our model on the additional data that was available on Kaggle;\
-  (d) manually double-check our ground-truth cervix labels with an expert.
+  (d) manually double-check our ground-truth cervix labels with an expert. 
